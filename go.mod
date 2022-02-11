@@ -7,8 +7,11 @@ require (
 	github.com/golang/mock v1.6.0
 	github.com/google/addlicense v1.0.0
 	github.com/onmetal/onmetal-api v0.0.9-0.20211124103022-e0950bee3a6e
+	github.com/onmetal/onmetal-console v0.0.0-20211124103117-bb01d5eb3c4c
 	github.com/spf13/cobra v1.2.1
 	go.uber.org/zap v1.19.1
+	k8s.io/api v0.22.4
+	k8s.io/apimachinery v0.22.4
 	k8s.io/cli-runtime v0.22.4
 	sigs.k8s.io/controller-runtime v0.10.3
 )
@@ -61,7 +64,6 @@ require (
 	github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd // indirect
 	github.com/modern-go/reflect2 v1.0.1 // indirect
 	github.com/monochromegane/go-gitignore v0.0.0-20200626010858-205db1a8cc00 // indirect
-	github.com/onmetal/onmetal-console v0.0.0-20211124103117-bb01d5eb3c4c // indirect
 	github.com/peterbourgon/diskv v2.0.1+incompatible // indirect
 	github.com/pkg/errors v0.9.1 // indirect
 	github.com/pmezard/go-difflib v1.0.0 // indirect
@@ -95,9 +97,7 @@ require (
 	gopkg.in/yaml.v2 v2.4.0 // indirect
 	gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b // indirect
 	inet.af/netaddr v0.0.0-20210903134321-85fa6c94624e // indirect
-	k8s.io/api v0.22.4 // indirect
 	k8s.io/apiextensions-apiserver v0.22.2 // indirect
-	k8s.io/apimachinery v0.22.4 // indirect
 	k8s.io/client-go v0.22.4 // indirect
 	k8s.io/component-base v0.22.3 // indirect
 	k8s.io/klog/v2 v2.9.0 // indirect
