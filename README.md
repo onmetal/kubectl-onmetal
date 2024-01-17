@@ -1,3 +1,5 @@
+# Moved to https://github.com/ironcore-dev/kubectl-ironcore and archived
+
 # kubectl-onmetal
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
